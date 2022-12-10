@@ -1,6 +1,6 @@
 
 body{
-    background-color: #a7bdcc !important;/*can click to change!*/
+    background-color: #a9daf8 !important;/*can click to change!*/
     margin: 20px !important;
 
 }
@@ -37,7 +37,7 @@ h4 {
   .info:hover {
     background-color: white;
     padding: 0 0 0 5px;
-    width: 550px;
+    width: 520px;
     height: 70px;
     text-align: left !important;
   }
@@ -65,6 +65,7 @@ h4 {
     display: flex;
     flex-wrap: wrap;
     flex-wrap: space-around;
+    
     /* padding: 1rem; */
 }
 
